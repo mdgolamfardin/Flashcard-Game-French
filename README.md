@@ -1,4 +1,4 @@
-# French-Word-Flash
+# French Word Flash
 
 Welcome to the French-Word-Flash repository! This project is designed to help users learn French vocabulary through a digital flashcard application built with Python. It presents words in French and asks the user to recall the English translation, excluding words from the dataset that the user gets right. 
 
