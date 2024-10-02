@@ -75,8 +75,8 @@ window.config(width=900, height=626, bg=BACKGROUND_COLOR, pady=50,
 # Load images for the flashcards and buttons
 front_img = tk.PhotoImage(file="images/card_front.png")  # Image for the front of the flashcard
 back_img = tk.PhotoImage(file="images/card_back.png")  # Image for the back of the flashcard
-right_img = tk.PhotoImage(file="images/right.png")  # Image for the right (correct) button
-wrong_img = tk.PhotoImage(file="images/wrong.png")  # Image for the wrong (incorrect) button
+right_img = tk.PhotoImage(file="images/can_recall.png")  # Image for the right (correct) button
+wrong_img = tk.PhotoImage(file="images/cannot_recall.png")  # Image for the wrong (incorrect) button
 
 # Create a canvas for displaying the flashcards
 canvas = tk.Canvas(width=800, height=526, bg=BACKGROUND_COLOR,
