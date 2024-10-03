@@ -1,10 +1,9 @@
 # Flashcard Game French
 
-<<<<<<< HEAD
+
 This project is designed to help users learn French vocabulary through a digital flashcard application built with Python. It presents words in French and asks the user to recall the English translation, excluding words from the dataset that the user gets right. 
-=======
+
 Welcome to the French-Word-Flash-Card repository! This project is designed to help users learn French vocabulary through a digital flashcard application built with Python. It presents words in French and asks the user to recall the English translation, excluding words from the dataset that the user gets right. 
->>>>>>> 8281717e818b0ff5e2d9a45bec92352b2b937cb1
 
 ## Project Structure
 
