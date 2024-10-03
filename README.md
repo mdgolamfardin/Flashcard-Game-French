@@ -1,6 +1,6 @@
-# French Word Flash
+# Flashcard Game French
 
-Welcome to the French-Word-Flash repository! This project is designed to help users learn French vocabulary through a digital flashcard application built with Python. It presents words in French and asks the user to recall the English translation, excluding words from the dataset that the user gets right. 
+This project is designed to help users learn French vocabulary through a digital flashcard application built with Python. It presents words in French and asks the user to recall the English translation, excluding words from the dataset that the user gets right. 
 
 ## Project Structure
 
@@ -49,7 +49,7 @@ To get started with the French-Word-Flash project, you will need to have Python 
 2. Run `main.py` using an IDE (PyCharm for example). Install an IDE if you don't have one already.
 
 ## How To Use
-The French-Word-Flash application helps you learn French vocabulary through an interactive flashcard system. Here's how to use it effectively:
+This application helps you learn French vocabulary through an interactive flashcard system. Here's how to use it effectively:
 
 1. **Interacting with Flashcards**:
    - After the word disappears, decide if you knew the correct English translation.
