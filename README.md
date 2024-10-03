@@ -22,7 +22,7 @@ This repository includes the following files and directories:
 - **Data Storage**: Keeps a record of the words yet to learn, excluding learned words from reappearance.
 
 ## Technologies
-- **Programming Language**: Python 3.8+
+- **Programming Language**: Python 3.12
 - **Library**: Tkinter (for the GUI interface)
 - **Data Handling**: 
   - **CSV Files**: Used to store and manipulate vocabulary data.
