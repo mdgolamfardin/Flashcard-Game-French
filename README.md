@@ -21,6 +21,13 @@ This repository includes the following files and directories:
 - **Interactive Flashcards**: Click through flashcards to view French words and test your knowledge by recalling the English translation.
 - **Data Storage**: Keeps a record of the words yet to learn, excluding learned words from reappearance.
 
+## Technologies
+- **Programming Language**: Python 3.8+
+- **Library**: Tkinter (for the GUI interface)
+- **Data Handling**: 
+  - **CSV Files**: Used to store and manipulate vocabulary data.
+  - **Pandas**: Utilized for efficient data manipulation and analysis of the vocabulary data stored in CSV files.
+
 ## Getting Started
 To get started with the French-Word-Flash project, you will need to have Python installed on your machine. Follow these steps to set up the project:
 
