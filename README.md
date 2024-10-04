@@ -28,7 +28,7 @@ This repository includes the following files and directories:
 - **Data Handling**: 
   - **CSV Files**: Used to store and manipulate vocabulary data.
   - **Pandas**: Utilized for efficient data manipulation and analysis of the vocabulary data stored in CSV files.
-
+-**Version Control**: Used Git for version control.
 ## Getting Started
 To get started with the French-Word-Flash project, you will need to have Python installed on your machine. Follow these steps to set up the project:
 
